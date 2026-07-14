@@ -1,0 +1,11 @@
+I will give the link of the working Sport Zone link,
+which will help you to copy paste it in the browser to if it is really working or not .
+https://dev432841.service-now.com/sz - for home page of the Sport Zone .
+After clicking on the Explore Now button the 
+Url will change like this : https://dev432841.service-now.com/sz?id=sports_booking#popular_venues
+If you click on the Book Venue widget then it will take you to the form , where you need to fill the necessary details okay ,
+the Url will change like this : https://dev432841.service-now.com/sz?id=book_venue. 
+Then we have the My Bookings where the booking details of the sports you have selected will be present there
+the Url : https://dev432841.service-now.com/sz?id=my_bookings. 
+I have also provided the help widget where you will get the some information like the support mail, phone number and back to home widget 
+to navigate to the home page.
